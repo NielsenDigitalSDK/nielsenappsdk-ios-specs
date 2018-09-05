@@ -16,8 +16,7 @@ Pod::Spec.new do |s|
         {
             :name => 'Pod Build Script',
             :script => 'chmod a+x "${PODS_TARGET_SRCROOT}/pod_build.sh"
-POD_BUILD="${PODS_TARGET_SRCROOT}/pod_build.sh"
-$POD_BUILD',
+"${PODS_TARGET_SRCROOT}"/pod_build.sh',
             :execution_position => :before_compile
         }
     ]
