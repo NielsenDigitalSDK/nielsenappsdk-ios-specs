@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.authors             = 'Nielsen'
     s.description         = 'Nielsen Digital Measurement SDK Framework for AGF with no AdSupport.'
-    s.frameworks          = 'AdSupport', 'CoreLocation', 'JavaScriptCore', 'WebKit', 'SystemConfiguration', 'AVFoundation'
+    s.frameworks          = 'CoreLocation', 'JavaScriptCore', 'WebKit', 'SystemConfiguration', 'AVFoundation'
     s.library             = 'sqlite3'
     s.homepage            = 'http://www.nielsen.com'
     s.license             = { :text => 'Copyright 2018 Nielsen', :type => 'Copyright' }
