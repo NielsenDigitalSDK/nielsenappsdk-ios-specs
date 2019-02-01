@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.platform            = :tvos, '9.0'
     s.name                = 'NielsenTVOSAppSDK'
     s.preserve_paths      = 'LICENSE.txt', 'pod_build.sh'
-    s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Nielsen/NielsenTVOSAppSDK-6.1.0.1.zip' }
+    s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-6.1.0.1.zip' }
     s.summary             = 'Nielsen TVOS App SDK.'
     s.vendored_frameworks = 'NielsenTVAppApi.framework'
     s.version             = '6.1.0.1'
