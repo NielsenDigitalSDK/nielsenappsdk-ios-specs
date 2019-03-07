@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
     s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/iOS/VRI/VRIAppSDK-6.1.0.1.zip' }
     s.summary             = 'VRI App SDK.'
     s.vendored_frameworks = 'AppApi.framework'
+    s.static_framework    = true
     s.version             = '6.1.0.1'
     s.script_phases = [
         {
