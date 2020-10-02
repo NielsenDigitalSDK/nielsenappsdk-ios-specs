@@ -1,17 +1,16 @@
 Pod::Spec.new do |s|
     s.authors             = 'Nielsen'
-    s.description         = 'Nielsen Digital Measurement SDK Framework.'
-    s.frameworks          = 'AdSupport', 'AppTrackingTransparency', 'SystemConfiguration', 'CoreLocation', 'AVFoundation'
+    s.description         = 'Nielsen Digital Measurement SDK Framework for AGF with no Id.'
+    s.frameworks          = 'SystemConfiguration', 'CoreLocation', 'AVFoundation'
     s.library             = 'sqlite3'
     s.homepage            = 'http://www.nielsen.com'
     s.license             = { :text => 'Copyright 2020 Nielsen', :type => 'Copyright' }
     s.platform            = :tvos, '9.0'
-    s.name                = 'NielsenTVOSAppSDK'
+    s.name                = 'NielsenAGFNoIdTVOSAppSDK'
     s.preserve_paths      = 'LICENSE.txt', 'pod_build.sh'
-    s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-XXX.zip' }
-    s.summary             = 'Nielsen TVOS App SDK.'
+    s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/AGFNoId/NielsenAGFNoIdTVOSAppSDK-XXX.zip' }
+    s.summary             = 'Nielsen AGF No Id TVOS App SDK.'
     s.vendored_frameworks = 'NielsenTVAppApi.framework'
-    s.static_framework    = true
     s.version             = 'XXX'
     s.script_phases = [
         {
