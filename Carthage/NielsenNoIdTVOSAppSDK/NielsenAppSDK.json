@@ -1,3 +1,4 @@
 {
-	"8.0.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/GlobalNoId/NielsenNoIdTVOSAppSDK-8.0.0.0.zip"
+	"8.0.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/GlobalNoId/NielsenNoIdTVOSAppSDK-8.0.0.0.zip",
+	"8.1.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/GlobalNoId/NielsenNoIdTVOSAppSDK-8.1.0.0.zip?alt=https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/XC/GlobalNoId/NielsenNoIdAppSDK-8.1.0.0.zip"
 }
