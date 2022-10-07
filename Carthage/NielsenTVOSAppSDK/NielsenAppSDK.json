@@ -8,5 +8,6 @@
 	"7.2.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-7.2.0.0.zip",
 	"8.0.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-8.0.0.0.zip",
 	"8.1.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-8.1.0.0.zip?alt=https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/XC/Global/NielsenAppSDK-8.1.0.0.zip",
-	"8.2.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-8.2.0.0.zip?alt=https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/XC/Global/NielsenAppSDK-8.2.0.0.zip"
+	"8.2.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-8.2.0.0.zip?alt=https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/XC/Global/NielsenAppSDK-8.2.0.0.zip",
+	"9.0.0": "https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-9.0.0.0.zip?alt=https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/XC/Global/NielsenAppSDK-9.0.0.0.zip"
 }
