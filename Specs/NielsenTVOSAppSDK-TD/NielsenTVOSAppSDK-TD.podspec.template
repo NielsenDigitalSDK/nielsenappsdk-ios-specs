@@ -6,9 +6,9 @@ Pod::Spec.new do |s|
     s.homepage            = 'http://www.nielsen.com'
     s.license             = { :text => 'Copyright 2020 Nielsen', :type => 'Copyright' }
     s.platform            = :tvos, '12.0'
-    s.name                = 'NielsenTVOSAppSDK'
+    s.name                = 'NielsenTVOSAppSDK-TD'
     s.preserve_paths      = 'LICENSE.txt', 'pod_build.sh'
-    s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global/NielsenTVOSAppSDK-XXX.zip' }
+    s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/Global-TD/NielsenTVOSAppSDK-XXX.zip' }
     s.summary             = 'Nielsen TVOS App SDK.'
     s.vendored_frameworks = 'NielsenTVAppApi.framework'
     s.static_framework    = true
