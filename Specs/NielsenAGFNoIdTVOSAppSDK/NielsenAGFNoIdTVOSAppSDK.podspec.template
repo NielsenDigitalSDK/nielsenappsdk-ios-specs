@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.library             = 'sqlite3'
     s.homepage            = 'http://www.nielsen.com'
     s.license             = { :text => 'Copyright 2020 Nielsen', :type => 'Copyright' }
-    s.platform            = :tvos, '9.0'
+    s.platform            = :tvos, '12.0'
     s.name                = 'NielsenAGFNoIdTVOSAppSDK'
     s.preserve_paths      = 'LICENSE.txt', 'pod_build.sh'
     s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/tvOS/AGFNoId/NielsenAGFNoIdTVOSAppSDK-XXX.zip' }
