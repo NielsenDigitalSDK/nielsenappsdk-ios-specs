@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.library             = 'sqlite3'
     s.homepage            = 'http://www.nielsen.com'
     s.license             = { :text => 'Copyright 2020 Nielsen', :type => 'Copyright' }
-    s.platform            = :ios, '12.0'
+    s.platform            = :ios, '15.0'
     s.name                = 'NielsenNoAdAppSDK'
     s.preserve_paths      = 'LICENSE.txt', 'pod_build.sh'
     s.source              = { :http => 'https://raw.githubusercontent.com/nielsendigitalsdk/nielsenappsdk-ios/master/iOS/GlobalNoAd/NielsenNoAdAppSDK-11.0.0.0.zip' }
